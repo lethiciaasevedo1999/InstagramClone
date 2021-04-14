@@ -35,3 +35,21 @@ body{
 .instagram-phone img {
     height: 40%;
 }
+
+.instagram-continue{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    flex-direction: column;
+    width: 50%;
+    min-height: 34rem;
+}
+
+
+/*Alinhamento dos grupos*/
+.group{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: column;
+}
